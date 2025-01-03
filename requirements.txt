@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain
+PyPDF2
+# we are faiss-cpu becuase we have less number of files , if we ahve more number of files we can use faiss-gpu
+faiss-cpu
+langchain_google_genai
